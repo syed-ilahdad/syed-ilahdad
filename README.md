@@ -1,4 +1,4 @@
-# 💫 About :
+# 💫 About Me :
 ## About Me 👋<br><br> 🌟 **Currently Working On:** Advancing my skills in **Artificial Intelligence** and **Machine Learning** by building projects that solve real-world problems.  <br> 👥**Open to Collaborations:** I’d love to work with software professionals and teams passionate about **AI**, **ML**, and cutting-edge **web development** projects.  <br>💻 **Skills:**  <br>   - **Web Development** : React, Node.js, REST APIs, etc.  <br>   - **AI/ML** : TensorFlow, Scikit-learn, NLP basics.  <br>   - **Programming Languages:** C++, Java (focused on Data Structures and Algorithms).  <br>💡 **Ask Me About:**  <br>   - Building full-stack web applications.  <br>   - AI/ML fundamentals and best practices.  <br>   - Tips for mastering DSA with C++ and Java.  <br>🌱 **Always Learning:** Exploring DevOps tools, advanced ML concepts, and cloud computing.  <br>🎯 **Goal:** To contribute to impactful open-source projects and continuously expand my knowledge base.<br>🎉 **Fun Fact:** When I’m not coding, you’ll find me in football ground
 
 
