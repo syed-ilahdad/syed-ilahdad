@@ -7,7 +7,7 @@
 # Hi, I’m **[Your Name]** 👋  
 ### *A passionate developer building impactful digital products*
 
----
+
 
 ## 📌 About Me
 
@@ -16,7 +16,6 @@ With a strong grip on software development fundamentals, I value clean code, sca
 
 I love working on creative projects, collaborating with teams, and expanding my knowledge in the world of tech!
 
----
 
 ## 💻 Skills & Expertise
 
