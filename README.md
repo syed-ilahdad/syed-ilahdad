@@ -25,4 +25,4 @@ c cplusplus < git html5 java javascript linux mongodb nodejs oracle pandas pytho
 
 📈 Graph
 snake
-https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg
+![](https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg)
